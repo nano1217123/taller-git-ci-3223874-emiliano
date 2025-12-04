@@ -1,0 +1,23 @@
+{
+  "name": "taller-git-ci-3223874-emiliano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nano1217123/taller-git-ci-3223874-emiliano.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nano1217123/taller-git-ci-3223874-emiliano/issues"
+  },
+  "homepage": "https://github.com/nano1217123/taller-git-ci-3223874-emiliano#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}
