@@ -7,4 +7,4 @@ Incluye:
 - PR con revisión
 - Prettier
 - Workflow CI
-# esos son los elementos a entregar
+# esos son los elementos a entregar.
